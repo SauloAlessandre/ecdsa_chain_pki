@@ -22,7 +22,7 @@ This will create a nistp384 certificate chain with a CA certificate and a CA-INT
 #Creating user key and certificate
 
 How to use:
-./create_user.sh <curve_size> <user> <nick>
+./create_user.sh [curve_size] [user] [nick]
 
 Example:
 ./create_roots.sh 384 'saulo.alessandre' 'Saulo Alessandre'
