@@ -25,6 +25,6 @@ How to use:
 ./create_user.sh [curve_size] [user] [nick]
 
 Example:
-./create_roots.sh 384 'saulo.alessandre' 'Saulo Alessandre'
+./create_user.sh 384 'user_email@gmail.com' 'User Name'
 
 This will create a nistp384 user certificate signed by CA-INTERMEDIATE certificate. 
